@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MASignInViewController.h
 //  MiraleApp
 //
 //  Created by YeBa on 9/23/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MASignInViewController : UIViewController
 
 @end
-
